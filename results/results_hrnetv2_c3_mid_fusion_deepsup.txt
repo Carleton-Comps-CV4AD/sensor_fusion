@@ -1,0 +1,37 @@
+weight: .75 depth .25 rgb
+deepsup scale = .65
+
+7 epochs
+
+class [0], IoU: 0.0320
+class [1], IoU: 0.0006
+class [2], IoU: 0.5788
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0277
+class [6], IoU: 0.0409
+class [7], IoU: 0.0030
+class [8], IoU: 0.1958
+class [9], IoU: 0.0000
+class [10], IoU: 0.0000
+class [11], IoU: 0.0000
+class [12], IoU: 0.0000
+class [13], IoU: 0.0297
+class [14], IoU: 0.1506
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.0154
+class [20], IoU: 0.0365
+class [21], IoU: 0.0768
+class [22], IoU: 0.0000
+class [23], IoU: 0.0000
+class [24], IoU: 0.0001
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0410, Accuracy: 37.16%
+Evaluation Done!

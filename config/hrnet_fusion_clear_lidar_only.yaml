@@ -1,0 +1,41 @@
+DATASET:
+  imgMaxSize: 960
+  imgSizes: (360, 540, 720)
+  root_dataset: "/Data/dataLIDAR/0221-1730_seed_9876/clear_day/"
+  list_train: "./data/clear/odgt/train.odgt"
+  list_val: "./data/clear/odgt/validate.odgt"
+  num_class: 29
+  padding_constant: 32
+  random_flip: True
+  segm_downsampling_rate: 4
+
+DIR: "/Data/fusion/ckpt/hrnet_fusion_clear_lidar_only"
+
+MODEL:
+  arch_decoder: c1
+  arch_encoder: hrnetv2
+  fc_dim: 720
+TEST:
+  batch_size: 1
+  checkpoint: epoch_20.pth
+  result: ./
+TRAIN:
+  batch_size_per_gpu: 2
+  beta1: 0.9
+  deep_sup_scale: 0.4
+  disp_iter: 20
+  epoch_iters: 960
+  fix_bn: False
+  lr_decoder: 0.02
+  lr_encoder: 0.02
+  lr_pow: 0.9
+  num_epoch: 20
+  optim: SGD
+  seed: 304
+  start_epoch: 0
+  weight_decay: 0.0001
+  workers: 16
+VAL:
+  batch_size: 1
+  checkpoint: epoch_10.pth
+  visualize: True

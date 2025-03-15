@@ -1,0 +1,33 @@
+15 epochs -- frozen depth only
+
+class [0], IoU: 0.0438
+class [1], IoU: 0.0562
+class [2], IoU: 0.3681
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0022
+class [6], IoU: 0.0219
+class [7], IoU: 0.0000
+class [8], IoU: 0.1571
+class [9], IoU: 0.0000
+class [10], IoU: 0.0000
+class [11], IoU: 0.0000
+class [12], IoU: 0.0000
+class [13], IoU: 0.0000
+class [14], IoU: 0.0124
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.0573
+class [20], IoU: 0.0126
+class [21], IoU: 0.0402
+class [22], IoU: 0.0000
+class [23], IoU: 0.0000
+class [24], IoU: 0.0000
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0266, Accuracy: 27.41%

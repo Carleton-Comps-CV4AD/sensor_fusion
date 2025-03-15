@@ -1,0 +1,67 @@
+10 epochs
+
+class [0], IoU: 0.0262
+class [1], IoU: 0.0000
+class [2], IoU: 0.4722
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0084
+class [6], IoU: 0.0654
+class [7], IoU: 0.0040
+class [8], IoU: 0.1554
+class [9], IoU: 0.0000
+class [10], IoU: 0.0000
+class [11], IoU: 0.0000
+class [12], IoU: 0.0000
+class [13], IoU: 0.0200
+class [14], IoU: 0.0145
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.0117
+class [20], IoU: 0.0064
+class [21], IoU: 0.0070
+class [22], IoU: 0.0000
+class [23], IoU: 0.0000
+class [24], IoU: 0.0000
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0273, Accuracy: 29.93%
+
+19 epochs:
+
+class [0], IoU: 0.0329
+class [1], IoU: 0.0005
+class [2], IoU: 0.2019
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0107
+class [6], IoU: 0.0298
+class [7], IoU: 0.0005
+class [8], IoU: 0.1607
+class [9], IoU: 0.0000
+class [10], IoU: 0.0000
+class [11], IoU: 0.0006
+class [12], IoU: 0.0000
+class [13], IoU: 0.0224
+class [14], IoU: 0.0087
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.0238
+class [20], IoU: 0.0000
+class [21], IoU: 0.0550
+class [22], IoU: 0.0000
+class [23], IoU: 0.0000
+class [24], IoU: 0.0000
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0189, Accuracy: 18.57%

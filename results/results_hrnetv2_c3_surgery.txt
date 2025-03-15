@@ -1,0 +1,67 @@
+20 epochs -- frozen depth + frozen rgb --> both trained 2 epochs.
+
+class [0], IoU: 0.2845
+class [1], IoU: 0.2706
+class [2], IoU: 0.5667
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0435
+class [6], IoU: 0.0330
+class [7], IoU: 0.0000
+class [8], IoU: 0.2369
+class [9], IoU: 0.0000
+class [10], IoU: 0.0036
+class [11], IoU: 0.0000
+class [12], IoU: 0.0001
+class [13], IoU: 0.0696
+class [14], IoU: 0.0564
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.1134
+class [20], IoU: 0.0002
+class [21], IoU: 0.1010
+class [22], IoU: 0.0000
+class [23], IoU: 0.0108
+class [24], IoU: 0.0031
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0618, Accuracy: 50.86%
+
+40 epochs:
+
+class [0], IoU: 0.2709
+class [1], IoU: 0.2480
+class [2], IoU: 0.5792
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0432
+class [6], IoU: 0.0012
+class [7], IoU: 0.0001
+class [8], IoU: 0.3302
+class [9], IoU: 0.0000
+class [10], IoU: 0.0096
+class [11], IoU: 0.0000
+class [12], IoU: 0.0000
+class [13], IoU: 0.0998
+class [14], IoU: 0.1540
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.1135
+class [20], IoU: 0.0337
+class [21], IoU: 0.0570
+class [22], IoU: 0.0000
+class [23], IoU: 0.0085
+class [24], IoU: 0.0000
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0672, Accuracy: 51.39%

@@ -1,0 +1,101 @@
+4 epochs
+
+class [0], IoU: 0.0476
+class [1], IoU: 0.0489
+class [2], IoU: 0.5555
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0476
+class [6], IoU: 0.1405
+class [7], IoU: 0.0123
+class [8], IoU: 0.1651
+class [9], IoU: 0.0000
+class [10], IoU: 0.0000
+class [11], IoU: 0.0000
+class [12], IoU: 0.0000
+class [13], IoU: 0.0189
+class [14], IoU: 0.0948
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.0276
+class [20], IoU: 0.0531
+class [21], IoU: 0.0614
+class [22], IoU: 0.0000
+class [23], IoU: 0.0000
+class [24], IoU: 0.0000
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0439, Accuracy: 36.66%
+Evaluation Done!
+
+6 epochs
+
+class [0], IoU: 0.0425
+class [1], IoU: 0.1476
+class [2], IoU: 0.5920
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.1114
+class [6], IoU: 0.0779
+class [7], IoU: 0.0822
+class [8], IoU: 0.2325
+class [9], IoU: 0.0000
+class [10], IoU: 0.0000
+class [11], IoU: 0.0000
+class [12], IoU: 0.0000
+class [13], IoU: 0.0280
+class [14], IoU: 0.3598
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.0343
+class [20], IoU: 0.0229
+class [21], IoU: 0.1680
+class [22], IoU: 0.0000
+class [23], IoU: 0.0000
+class [24], IoU: 0.0000
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0655, Accuracy: 41.39%
+
+19 epochs
+class [0], IoU: 0.2422
+class [1], IoU: 0.0271
+class [2], IoU: 0.6484
+class [3], IoU: 0.0000
+class [4], IoU: 0.0000
+class [5], IoU: 0.0681
+class [6], IoU: 0.1666
+class [7], IoU: 0.1863
+class [8], IoU: 0.3644
+class [9], IoU: 0.0000
+class [10], IoU: 0.0000
+class [11], IoU: 0.0000
+class [12], IoU: 0.0000
+class [13], IoU: 0.0647
+class [14], IoU: 0.1074
+class [15], IoU: 0.0000
+class [16], IoU: 0.0000
+class [17], IoU: 0.0000
+class [18], IoU: 0.0000
+class [19], IoU: 0.0310
+class [20], IoU: 0.0819
+class [21], IoU: 0.1669
+class [22], IoU: 0.0000
+class [23], IoU: 0.0008
+class [24], IoU: 0.0203
+class [25], IoU: 0.0000
+class [26], IoU: 0.0000
+class [27], IoU: 0.0000
+class [28], IoU: 0.0000
+[Eval Summary]:
+Mean IoU: 0.0750, Accuracy: 48.09%
