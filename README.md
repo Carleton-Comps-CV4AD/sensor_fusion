@@ -58,11 +58,7 @@ interpolation_prototyping.ipynb : prototyping and visualization of depth upsampl
 normalize.ipynb : used to obtain normalization constants for depth data and check that normalization is working correctly.
 stack_lidar_rgb.ipynb : protyping for early fusion (rgbd with one encoder).
 
-# Semantic Segmentation on CARLA Data
-# Adapted from MIT ADE20K dataset in PyTorch
-
-This is a PyTorch implementation of semantic segmentation models on custom data from the CARLA simulator. The implementation is adapted from the MIT ADE20K scene parsing dataset (http://sceneparsing.csail.mit.edu/).
-
+# Information from original implementation by MIT:
 
 ## Background of MIT ADE20K
 ADE20K is the largest open source dataset for semantic segmentation and scene parsing, released by MIT Computer Vision team. Follow the link below to find the repository for their dataset and implementations on Caffe and Torch7:
